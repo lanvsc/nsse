@@ -18,8 +18,8 @@ yarn-error.log*
 
 # Others
 .vscode/
-.cli/
-.certificates/
+cli/
+certificates/
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
