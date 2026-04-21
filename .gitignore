@@ -18,8 +18,14 @@ yarn-error.log*
 
 # Others
 .vscode/
-cli/
-certificates/
+certificates/*.pfx
+certificates/*.crt  
+certificates/*.key
+certificates/*.pem
+certificates/*.csr
+certificates/*.srl
+
+
 
 ### ASPNETCore ###
 ## Ignore Visual Studio temporary files, build results, and
